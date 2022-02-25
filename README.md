@@ -29,4 +29,4 @@
 <p><a href="https://www.buymeacoffee.com/0xdarksky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/0xdarksky" /></a></p><br><br>
 
 <h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ql0r&show_icons=true&theme=synthwave&title_color=000000&text_color=000000&hide_border=true&locale=en" alt="ql0r" /></a></p><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ql0r&show_icons=true&theme=synthwave&title_color=000000&text_color=000000&hide_border=true&locale=en" alt="0xdarksky" /></a></p><br><br>
