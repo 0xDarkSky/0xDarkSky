@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm DarkSky (also known as QL0R, 0xDarkSky, BrightSky)</h1>
-<h3 align="center">A full-stack developer from Mars :)</h3>
+<h3 align="center">MOVED TO CODEBERG! https://codeberg.org/0xdarksky</h3>
 
 - 🔭 I’m currently working on **completely random C projects, Linux related stuff**
 
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **pretty much any project that would interest me :D**
 
 - 🤝 I’m looking for help with **project ideas (out of ideas 0_0)**
-
-- 📝 I regularly write articles on **https://darksky.neocities.org/blog.html**
 
 - 💬 Ask me about **Python related projects, cybersecurity questions, Linux related things**
 
