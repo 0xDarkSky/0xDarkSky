@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm DarkSky (also known as QL0R, 0xDarkSky, BrightSky)</h1>
-<h3 align="center">MOVED TO CODEBERG! https://codeberg.org/0xdarksky</h3>
+<h2 align="center">GIVE UP GITHUB https://sfconservancy.org/GiveUpGitHub/</h2>
+<h2 align="center">MOVED TO CODEBERG https://codeberg.org/0xdarksky</h2>
 
 - 🔭 I’m currently working on **completely random C projects, Linux related stuff**
 
