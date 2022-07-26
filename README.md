@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python related projects, cybersecurity questions, Linux related things**
 
-- 📫 How to contact me **darksky@getgoogleoff.me (an actual email) or Discord: DarkSky#8969**
+- 📫 How to contact me **0xdarksky@riseup.net** or Discord: **DarkSky#8969**
 
 - ⚡ Fun fact **Earth still exists**
 
